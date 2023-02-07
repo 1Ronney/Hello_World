@@ -34,8 +34,17 @@ cell_features.each do |features|
         #their resistance to change is crucial for stability and loneivity of tissue
       end
   cell_type.each do |cell|
-    puts "parmanent cells, #{}!"
-    {} {}
+    puts "parmanent cells, #{ they are long lived and non replenishing cells: "they do not undergo cell division"}!"
+          #parmanent cells are characterized with abilities to maintain stable phenotype
+          #and the environment stress. parmanent cells are often found in tissu that require long-term persistence
+          #such as the cNS and muscle systems.
+    cell_features.each do |features|
+      puts "features of Stable cells, #{lack cell division: inadequately capable of replenishing,
+                                        stress resistant: survive high tempratures & low oxygen leves,
+                                        slow differentiation: and with low metabolic activity:}!"
+    #permanent cells include neurons, muscles cells, pancreatic beta cells 
+      #the cells are highly important in structural & functional maitainance
+      #their longeivity are hence essential for long-term stability.
     
         
                                 
