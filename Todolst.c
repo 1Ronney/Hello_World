@@ -16,3 +16,8 @@ int main()
 int price of goat = 2500 =! 4000.
   & price of sheep = 1500 =! 300.
   plans for March & April weeks. 
+char "s"
+    s = August look for the Chevening 2024/2025 application Window
+    for s <= august:
+confirm at this website:https://www.chevening.org/scholarship/kenya/
+return (0):
